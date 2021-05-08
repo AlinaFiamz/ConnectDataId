@@ -1,8 +1,18 @@
-ls
-cd "D:\Android_Setup\Android_All_Final\beats_FINAL\Beats_Sign_APK\Git_Setup"
+First Time
+--------------
 git init
-git remote add origin https://github.com/abupsoni200/ConnectDataId.git
-git add foldername // git add app_code.php
+git config user.name "AlinaFiamz"
+git config user.email "alinafiamz@gmail.com"
+git add *
+git commit -m "some init msg"
+
+
+----------------------------------
+ls
+cd "D:\Android_Setup\Alpha Faster Apps\Git_Setup"
+git init
+git remote set-url origin git@github.com:AlinaFiamz/ConnectDataId.git
+git add Temp // git add app_ad_code_id.php
 git commit -m "first commit"
 git push -u origin master
 
