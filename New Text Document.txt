@@ -1,0 +1,11 @@
+ls
+cd "D:\Android_Setup\Android_All_Final\beats_FINAL\Beats_Sign_APK\Git_Setup"
+git init
+git remote add origin https://github.com/abupsoni200/ConnectDataId.git
+git add foldername // git add app_code.php
+git commit -m "first commit"
+git push -u origin master
+
+
+git branch -M master
+git help
